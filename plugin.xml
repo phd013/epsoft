@@ -25,7 +25,7 @@
     <description>Cordova EpShow Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,epshow</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-epshow.git</repo>
+    <repo>https://github.com/phd013/epsoft.git</repo>
     <issue>https://issues.apache.org/jira/browse/CB/component/12320648</issue>
 
     <js-module src="www/epshow.js" name="EpShow">
